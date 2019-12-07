@@ -1,0 +1,9 @@
+ Central Delhi
+ East Delhi
+ New Delhi
+ North Delhi
+ North East Delhi
+ North West Delhi
+ South Delhi
+ South West Delhi
+ West Delhi
